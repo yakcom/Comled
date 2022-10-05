@@ -4,9 +4,9 @@
 <h3 align="center">A simple and convenient library for controlling an addressable led via a com port</h3><br>
 <a href="https://www.nuget.org/packages/Vkontakte.Bot"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=4392E7&center=true&vCenter=true&width=1000&lines=Download+NuGet+Release" alt="Typing SVG" /></a>
 
-#About
-##How comled works
-###The LED control system consists of 2 main parts
+# About
+## How comled works
+### The LED control system consists of 2 main parts
 > Arduino code
 > Desktop code
 
