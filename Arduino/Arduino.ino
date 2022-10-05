@@ -2,7 +2,7 @@
 
 //----------------------
 #define LEN 82
-#define PIN 7
+#define PIN 5
 //----------------------
 #define SPD 250000
 #define KEY "comled"     
