@@ -11,7 +11,7 @@ namespace Example
             Led Myled = new Led(6, 80, 250000);
             Myled.Connect();
             for(int i=0;i<Myled.Length;i++)
-                Myled.Set(i, Color.Black);
+                Myled.Set(i, Color.Cyan);
             Myled.Show();
 
         }
