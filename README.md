@@ -6,8 +6,8 @@
 
 # About
 ## How comled works
-### The LED control system consists of 2 main parts
 > Arduino code
+
 > Desktop code
 
 # Using
