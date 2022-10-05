@@ -7,7 +7,7 @@
 
 # About
 ## How comled works
-> Arduino code
+1. First you need to download and install the code on your microcontroller, which is connected to the addressable LED
 
 > Desktop code
 
