@@ -1,7 +1,7 @@
 #include <FastLED.h>
 
 //----------------------
-#define LEN 82
+#define LEN 80
 #define PIN 5
 //----------------------
 #define SPD 250000
