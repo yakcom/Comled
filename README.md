@@ -18,7 +18,7 @@
 //----------------------
 ```
 <h2>3. Upload arduino sketch to your microcontroller </h2>
-<a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879"><h3>Click if you don't know how to work with arduino<h3></a>
+<a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879"><h3>Click if you don't know how to work with arduino</h3></a>
 
 # Quick Start
 ```c#
