@@ -8,7 +8,7 @@
 # Using
 ## First step
 <h3>Download arduino sketch and upload in <a href="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png">Arduino IDE</a></h3>
-<img src="https://github.com/yakcom/Vkontakte.Bot/blob/master/.github/ArduinoLoad.png" /><br><br><br>
+<img src="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png" /><br><br><br>
 
 # Quick Start
 ```c#
