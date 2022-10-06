@@ -3,12 +3,11 @@
 //----------------------
 #define LEN 80
 #define PIN 5
-//----------------------
 #define SPD 250000
-#define KEY "comled"     
 //----------------------
 
 CRGB LED[LEN];
+#define KEY "comled"     
 
 void setup()
 {
