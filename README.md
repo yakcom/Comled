@@ -17,6 +17,9 @@
 #define SPD 250000  // Baud rate
 //----------------------
 ```
+<h2>3. Upload arduino sketch to your microcontroller </h2>
+<h3>If you don't know how to work with arduino<h3>
+<a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879"><h3>Arduino Quick Start</h3></a>
 
 # Quick Start
 ```c#
