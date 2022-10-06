@@ -36,10 +36,16 @@ Led Myled = new Led(a, b, c);
 ```
 > a - Serial port number
 
-> b - Led number
+> b - Number of leds
 
 > c- Serial port baud rate
-## Connet with Led
+## Connet with Led strip
 ```c#
 Myled.Connect();
+```
+## Set Color on led
+```c#
+Myled.Set(0, Color.Yellow);
+//or
+Myled.Set(0, "FFFF00");
 ```
