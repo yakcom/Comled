@@ -58,10 +58,33 @@ Myled.Show();
 <br>
 
 ## Simple Example
+### Set the first led red
 ```c#
 Led Myled = new Led(6, 80, 250000);
 Myled.Connect();
-Myled.Set(0, Color.Rad;
+Myled.Set(0, Color.Red);
 Myled.Show();
+```
+
+## Full Console Example
+### Fill all led strip yellow
+```c#
+using System.Drawing;
+using Comled;
+
+namespace Example
+{
+    internal class Simple
+    {
+        static void Main(string[] args)
+        {
+            Led Myled = new Led(6, 80, 250000);
+            Myled.Connect();
+            for(int i=0;i<Myled.Length;i++)
+                Myled.Set(i, Color.Yellow);
+            Myled.Show();
+        }
+    }
+}
 ```
 
