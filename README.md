@@ -4,7 +4,7 @@
 <h3 align="center">A simple library for controlling a addressable led via a com port</h3><br>
 <a href="https://www.nuget.org/packages/Vkontakte.Bot"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=4392E7&center=true&vCenter=true&width=1000&lines=Download+NuGet+Release" alt="Typing SVG" /></a>
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yakcom/Comled/blob/master/Arduino/Arduino.ino"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=00979c&center=true&vCenter=true&width=1000&lines=Download+Arduino+Sketch" alt="Typing SVG" /></a>
----
+
 # Using
 ## Arduino part
 <br><h2>1. Download arduino sketch and open in <a href="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png">Arduino IDE</a></h2>
@@ -23,6 +23,8 @@
 <h3><a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879">How to upload a sketch</a></h3>
 <h3><img width="20" src="https://github.com/yakcom/Comled/blob/master/.github/Warning.png" /> If a compilation error occurs, please make sure your arduino ide has the <a href="https://github.com/FastLED/FastLED">FastLED</a> library installed.</h3>
 <h3><a href="https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries">How to install library</a></h3><br><br>
+
+---
 
 # Using
 ## Desktop part
