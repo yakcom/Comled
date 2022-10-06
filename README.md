@@ -32,8 +32,9 @@ using Comled;
 ```
 ## Create Led Object
 ```c#
-Led Myled = new Led([post], 80, 250000);
 Led Myled = new Led(6, 80, 250000);
 ```
-    
+> 6 - Serial port number
+> 80 - Led number
+> 250000 - Serial port baud rate
 
