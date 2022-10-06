@@ -35,6 +35,8 @@ using Comled;
 Led Myled = new Led(6, 80, 250000);
 ```
 > 6 - Serial port number
+
 > 80 - Led number
+
 > 250000 - Serial port baud rate
 
