@@ -67,6 +67,7 @@ Myled.Set(0, Color.Red);
 Myled.Show();
 ```
 <br>
+
 ## Full Console Example
 ### Fill all led strip yellow
 ```c#
