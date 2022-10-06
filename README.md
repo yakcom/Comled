@@ -22,53 +22,11 @@
 <h3><a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879">How to upload a sketch</a></h3>
 <h3><img width="20" src="https://github.com/yakcom/Comled/blob/master/.github/Warning.png" /> If a compilation error occurs, please make sure your arduino ide has the <a href="https://github.com/FastLED/FastLED">FastLED</a> library installed.</h3>
 <h3><a href="https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries">How to install library</a></h3>
+<br><h2>4. Connect your microcontroller with led strip to usb port</h2>
 
 
-# Quick Start
-```c#
-VkontakteBot VkBot;
 
-void Main()
-{
-    VkBot = new VkontakteBot();
-    VkBot.Authorization("YOUR_VK_GROUP_API_TOKEN");
-    VkBot.Start(Handle);
-}
-
-void Handle(long id, string text)
-{
-    VkBot.Send(id, "Hello World");
-}
-```
-# Console Example
-```C#
-using Vkontakte.Bot;
-
-namespace Example
-{
-    internal class Simple
-    {
-        static VkontakteBot VkBot;
-        static void Main(string[] args)
-        {
-
-            VkBot = new VkontakteBot();
-            VkBot.Authorization("YOUR_VK_GROUP_API_TOKEN");
-            VkBot.Start(Handle);
-
-            Console.ReadLine();
-        }
-
-        static void Handle(long id, string text)
-        {
-            VkBot.Send(id, $"Hello Id: {id}\nYou Say: {text}");
-            VkBot.Send(id, "Test Inline Keyboard", "PositiveButton/P,NegativeButton/N;DefaultButton/D,PrimaryButton/M", true);
-            VkBot.Send(id, "Test Outline Keyboard", "Yes/P,No/N;/LOCATION");
-        }
-
-    }
-}
-```
+    
 <br><br><br>
 
 # Keyboard general
