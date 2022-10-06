@@ -26,7 +26,6 @@
 
 # Using
 ## Desktop part
-<br><h2>Download <a href="">Comled library</a> and connect</h2>
 
 ```c#
 using Comled;
