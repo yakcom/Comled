@@ -3,11 +3,11 @@
 <h1 align="center">Comled</h1></a>
 <h3 align="center">A simple library for controlling a addressable led via a com port</h3><br>
 <a href="https://www.nuget.org/packages/Vkontakte.Bot"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=4392E7&center=true&vCenter=true&width=1000&lines=Download+NuGet+Release" alt="Typing SVG" /></a>
-<a href="https://deepbag.github.io/yakcom/Comled/Arduino/Arduino.ino"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=00979c&center=true&vCenter=true&width=1000&lines=Download+Arduino+Code" alt="Typing SVG" /></a>
+<a href="https://deepbag.github.io/yakcom/Comled/Arduino/Arduino.ino"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=00979c&center=true&vCenter=true&width=1000&lines=Download+Arduino+Sketch" alt="Typing SVG" /></a>
 
 # Using
----
 ## First step
+<h3>Download arduino sketch and upload in <a href="https://github.com/arduino/arduino-ide">Arduino IDE</a></h3>
 
 
 # Quick Start
