@@ -56,6 +56,7 @@ Myled.Set(0, "FFFF00");
 Myled.Show();
 ```
 <br>
+
 ## Simple Example
 ```c#
 Led Myled = new Led(6, 80, 250000);
