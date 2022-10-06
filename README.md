@@ -1,6 +1,5 @@
-<a href="https://github.com/yakcom/Vkontakte.Bot/releases/">
 <p align="center"><img  width="200" src="https://github.com/yakcom/Comled/blob/master/.github/Ico.png"/></p>
-<h1 align="center">Comled</h1></a>
+<h1 align="center">Comled</h1>
 <h3 align="center">A simple library for controlling a addressable led via a com port</h3><br>
 <a href="https://www.nuget.org/packages/Vkontakte.Bot"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=4392E7&center=true&vCenter=true&width=1000&lines=Download+NuGet+Release" alt="Typing SVG" /></a>
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yakcom/Comled/blob/master/Arduino/Arduino.ino"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=00979c&center=true&vCenter=true&width=1000&lines=Download+Arduino+Sketch" alt="Typing SVG" /></a>
