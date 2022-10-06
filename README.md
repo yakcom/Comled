@@ -39,8 +39,7 @@ Led Myled = new Led(a, b, c);
 > b - Led number
 
 > c- Serial port baud rate
-## Example
+## Connet with Led
 ```c#
-Led Myled = new Led(6, 80, 250000);
+Myled.Connect();
 ```
-
