@@ -51,3 +51,7 @@ Myled.Set(0, Color.Yellow);
 ```c#
 Myled.Set(0, "FFFF00");
 ```
+## Led strip drawing
+```c#
+Myled.Show();
+```
