@@ -6,8 +6,7 @@
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yakcom/Comled/blob/master/Arduino/Arduino.ino"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=00979c&center=true&vCenter=true&width=1000&lines=Download+Arduino+Sketch" alt="Typing SVG" /></a>
 
 # Using
-## First step
-<h3>Download arduino sketch and upload in <a href="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png">Arduino IDE</a></h3>
+<h2>1. Download arduino sketch and upload in <a href="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png">Arduino IDE</a></h2>
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yakcom/Comled/blob/master/Arduino/Arduino.ino"><img src="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png" /></a><br><br><br>
 
 # Quick Start
