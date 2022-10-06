@@ -22,7 +22,7 @@
 <h3><a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879">How to upload a sketch</a></h3>
 <h3><img width="20" src="https://github.com/yakcom/Comled/blob/master/.github/Warning.png" /> If a compilation error occurs, please make sure your arduino ide has the <a href="https://github.com/FastLED/FastLED">FastLED</a> library installed.</h3>
 <h3><a href="https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries">How to install library</a></h3>
-<br><h2>5.Create a new project, install <a href="">Comled library</a> and connect it</h2>
+<br><h2>4. Create your new C# project, install <a href="">Comled library</a> and using it</h2>
 
 ```c#
 using Comled;
