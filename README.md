@@ -29,7 +29,6 @@
 ```c#
 using Comled;
 ```
-<br>
 
 ## Create Led Object
 ```c#
@@ -40,13 +39,11 @@ Led Myled = new Led(a, b, c);
 > b - Number of leds
 
 > c- Serial port baud rate
-<br>
 
 ## Connet with Led strip
 ```c#
 Myled.Connect();
 ```
-<br>
 
 ## Set Color on led
 ```c#
@@ -56,13 +53,11 @@ Myled.Set(0, Color.Yellow);
 ```c#
 Myled.Set(0, "FFFF00");
 ```
-<br>
 
 ## Led strip drawing
 ```c#
 Myled.Show();
 ```
-<br>
 
 # Examples
 <br>
