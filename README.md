@@ -65,8 +65,6 @@ Myled.Show();
 <br>
 
 # Examples
-<br>
-
 ## Simple Example
 ### Set the first led red
 ```c#
