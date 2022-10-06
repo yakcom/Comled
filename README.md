@@ -24,11 +24,9 @@
 <h3><img width="20" src="https://github.com/yakcom/Comled/blob/master/.github/Warning.png" /> If a compilation error occurs, please make sure your arduino ide has the <a href="https://github.com/FastLED/FastLED">FastLED</a> library installed.</h3>
 <h3><a href="https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries">How to install library</a></h3><br><br>
 
----
-
 # Using
 ## Desktop part
-<br><h2>4. Download <a href="">Comled</a> library and connect</h2>
+<br><h2>Download <a href="">Comled</a> library and connect</h2>
 
 ```c#
 using Comled;
