@@ -19,7 +19,7 @@
 ```
 <br><h2>3. Upload arduino sketch to your microcontroller </h2>
 <h3><a href="https://create.arduino.cc/projecthub/yeshvanth_muniraj/getting-started-with-arduino-bcb879">How to upload a sketch</a></h3>
-<p align="center"><img width="50" src="https://github.com/yakcom/Comled/blob/master/.github/Warning.png" /><h3> If a compilation error occurs, please make sure your arduino ide has the FastLed library installed.</h3></p>
+<p align="center"><h3><img width="50" src="https://github.com/yakcom/Comled/blob/master/.github/Warning.png" /> If a compilation error occurs, please make sure your arduino ide has the FastLed library installed.</h3></p>
 
 # Quick Start
 ```c#
