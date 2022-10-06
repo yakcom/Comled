@@ -46,6 +46,8 @@ Myled.Connect();
 ## Set Color on led
 ```c#
 Myled.Set(0, Color.Yellow);
-//or
+```
+### or
+```c#
 Myled.Set(0, "FFFF00");
 ```
