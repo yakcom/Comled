@@ -55,3 +55,12 @@ Myled.Set(0, "FFFF00");
 ```c#
 Myled.Show();
 ```
+<br>
+## Simple Example
+```c#
+Led Myled = new Led(6, 80, 250000);
+Myled.Connect();
+Myled.Set(0, Color.Rad;
+Myled.Show();
+```
+
