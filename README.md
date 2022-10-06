@@ -5,16 +5,10 @@
 <a href="https://www.nuget.org/packages/Vkontakte.Bot"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=4392E7&center=true&vCenter=true&width=1000&lines=Download+NuGet+Release" alt="Typing SVG" /></a>
 <a href="https://deepbag.github.io/yakcom/Comled/Arduino/Arduino.ino"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100000&duration=3000&color=00979c&center=true&vCenter=true&width=1000&lines=Download+Arduino+Code" alt="Typing SVG" /></a>
 
-# About
-## How comled works
->First you need to download and install the sketch on your microcontroller, which is connected to the addressable LED
-
-> Desktop code
-
 # Using
-```c#
-using Vkontakte.Bot;
-```
+## First step ( Arduino code )
+
+
 # Quick Start
 ```c#
 VkontakteBot VkBot;
