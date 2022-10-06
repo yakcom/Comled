@@ -26,7 +26,7 @@
 
 # Using
 ## Desktop part
-<br><h2>Download <a href="">Comled</a> library and connect</h2>
+<br><h2>Download <a href="">Comled library</a> and connect</h2>
 
 ```c#
 using Comled;
@@ -35,47 +35,7 @@ using Comled;
     
 <br><br><br>
 
-# Keyboard general
-### Keyboard generated from string with 3 main separators:
-> Symbol [ ; ] separates the vertical lines of the buttons
 
-> Symbol [ , ] separates buttons on a line
-
-> Symbol [ / ] separates the text of the button and its options
-
-## Example regular keyboard
-```c#
-VkBot.Send(id, "Example Text", "Button1Line1;Button1Line2,Button2Line2;Button1Line3,Button2Line3,Button3Line3");
-```
-<img src="https://github.com/yakcom/Vkontakte.Bot/blob/master/.github/Buttons.png"/><br><br><br>
-
-# Keyboard button options
-
-| Expression |  Button  |
-| ---------- | -------- |
-|     /D     | Default  |
-|     /M     | Primary  |
-|     /P     | Positive |
-|     /N     | Negative |
-|  /LOCATION | Location |
-
-## Example keyboard with button options
-```c#
-VkBot.Send(id, "Test", "Primary/M;Default/D;Positive/P;Negative/N;/LOCATION");
-```
-<img src="https://github.com/yakcom/Vkontakte.Bot/blob/master/.github/Buttons2.png"/><br><br><br>
-
-# Additional functions arguments
-### Send function has 2 additional arguments
-> Inline - keyboard embedded in message
-
-> OneTime - keyboard hides on next message
-
-## Example inline keyboard
-```c#
-VkBot.Send(id, "Test inline keyboard", "Primary/M,Default/D;Positive/P,Negative/N",true);
-```
-<img src="https://github.com/yakcom/Vkontakte.Bot/blob/master/.github/ButtonsInline.png"/><br><br><br>
 
 # Changing keyboard split characters
 ### Function ***SetKeyboardSplitters()*** allows you to specify your own characters as separators
