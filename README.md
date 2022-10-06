@@ -7,7 +7,7 @@
 
 # Using
 <br><h2>1. Download arduino sketch and open in <a href="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png">Arduino IDE</a></h2>
-<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yakcom/Comled/blob/master/Arduino/Arduino.ino"><img src="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png" /></a><br>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yakcom/Comled/blob/master/Arduino/Arduino.ino"><img src="https://github.com/yakcom/Comled/blob/master/.github/ArduinoLoad.png" /></a><br><br>
 <h2>2. Сhange the arduino sketch settings to your own</h2>
 
 ```c++
