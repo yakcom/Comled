@@ -30,17 +30,10 @@
 ```c#
 using Comled;
 ```
-
-    
-<br><br><br>
-
-
-
-# Changing keyboard split characters
-### Function ***SetKeyboardSplitters()*** allows you to specify your own characters as separators
-## Example
+## Create Led Object
 ```c#
-VkBot.SetKeyboardSplitters(':','.','|');
-VkBot.Send(id, "Test inline keyboard", "Primary|M.Default|D:Positive|P.Negative|N");
+Led Myled = new Led([post], 80, 250000);
+Led Myled = new Led(6, 80, 250000);
 ```
-<img src="https://github.com/yakcom/Vkontakte.Bot/blob/master/.github/Buttons3.png"/>
+    
+
