@@ -1,9 +1,9 @@
 #include <FastLED.h>
 
 //----------------------
-#define LEN 80
-#define PIN 5
-#define SPD 250000
+#define LEN 80  // Number of leds
+#define PIN 5   // Connected pin
+#define SPD 250000  // Baud rate
 //----------------------
 
 CRGB LED[LEN];
