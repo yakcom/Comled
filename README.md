@@ -26,7 +26,7 @@
 
 # Using
 ## Desktop part
-<br><h2>4. Create your new C# project, install <a href="">Comled library</a> and using it</h2>
+<br><h2>4. Download <a href="">Comled</a> library and connect</h2>
 
 ```c#
 using Comled;
