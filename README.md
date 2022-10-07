@@ -25,9 +25,13 @@
 
 # Using
 ## Desktop part
+<br>
+
+## Using library
 ```c#
 using Comled;
 ```
+<br>
 
 ## Create Led Object
 ```c#
@@ -38,6 +42,7 @@ Led Myled = new Led(a, b, c);
 > b - Number of leds
 
 > c- Serial port baud rate
+<br>
 
 ## Connet with Led strip
 ```c#
