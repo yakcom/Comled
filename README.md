@@ -27,7 +27,7 @@
 ## Desktop part
 <br>
 
-## Using library
+## Add library
 ```c#
 using Comled;
 ```
@@ -48,6 +48,7 @@ Led Myled = new Led(a, b, c);
 ```c#
 Myled.Connect();
 ```
+<br>
 
 ## Set Color on led
 ```c#
@@ -57,6 +58,7 @@ Myled.Set(0, Color.Yellow);
 ```c#
 Myled.Set(0, "FFFF00");
 ```
+<br>
 
 ## Led strip drawing
 ```c#
